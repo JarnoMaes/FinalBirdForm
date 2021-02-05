@@ -12,6 +12,8 @@ namespace FinalBirdForm
 {
     public partial class Form1 : Form
     {
+
+                                  //HOLD SPACEBAR TO GO UP !!!!!!
         int pipeSpeed = 8; 
         int gravity = 15;
         int score = 0;
